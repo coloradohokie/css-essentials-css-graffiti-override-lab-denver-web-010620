@@ -4,4 +4,4 @@
 
 div#wall #tag-2 {display:none}
 
-div#wall #tag-3 .slick%nbsp;wicked {display: none}
+div#wall #tag-3[class = "slick wicked"] {display: none}
