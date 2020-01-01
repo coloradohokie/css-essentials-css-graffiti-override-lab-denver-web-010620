@@ -8,4 +8,4 @@ div#wall #tag-3.slick.wicked {display: none}
 
 div#wall #tag-4 {display: none}
 
-div[id="tag-5" class="slick"] {display: none}
+div[id="tag-5"][class="slick"] {display: none}
