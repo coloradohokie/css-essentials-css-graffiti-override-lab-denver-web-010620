@@ -10,4 +10,4 @@ div#wall #tag-4 {display: none}
 
 div#wall .parent #tag-5.slick:only-child {display: none}
 
-div#wall .parent #tag-6:last-child {display: none}
+div#wall .parent #tag-6 div:last-child {display: none}
